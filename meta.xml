@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="WIZN" description="WIZN RageMP Project" />
+  <script src="bin/Debug/netcoreapp3.1/WIZN.dll" />
+</meta>
